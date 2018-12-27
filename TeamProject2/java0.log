@@ -1,0 +1,36 @@
+Oct 02, 2017 2:48:28 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Waiting until main window closes
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.itext.ITextEngine$2 run
+INFO: Scanning font directories...
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/usr/lib/jvm/java-7-openjdk/jre/lib/fonts
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: directory /usr/lib/jvm/java-7-openjdk/jre/lib/fonts is not readable
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=C:/windows/fonts
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: directory C:/windows/fonts is not readable
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/usr/share/fonts/truetype
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: directory /usr/share/fonts/truetype is not readable
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/System/Library/Fonts
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: directory /System/Library/Fonts is not readable
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.fonts.TTFontCache registerDirectory
+INFO: scanning directory=/opt/ganttproject/plugins-2.8.5/org.ganttproject.impex.htmlpdf/resource/fonts
+Oct 02, 2017 2:48:37 PM org.ganttproject.impex.htmlpdf.itext.ITextEngine$2 run
+INFO: Scanning font directories completed
+Oct 02, 2017 2:48:47 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after setVisible: java.awt.Rectangle[x=-63,y=68,width=1726,height=765]
+Oct 02, 2017 2:48:47 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Bounds after opening: java.awt.Rectangle[x=805,y=-17,width=789,height=885]
+Oct 02, 2017 3:17:48 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Oct 02, 2017 3:17:48 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Main window has closed
+Oct 02, 2017 3:17:48 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Program terminated
+Oct 02, 2017 3:17:48 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
+INFO: Eclipsito platform is shut down.

@@ -1,0 +1,137 @@
+C7 - Design
+Design Processes
+	Define context and modes
+	design architecture
+	ID objects
+	Develop Models
+	Specify interfaces
+Design models
+	Static
+		Class
+		Generalization
+		Association
+	Dynamic
+		Sequence
+		State machine
+Examples
+	Subsystem - organization
+	Sequence - objects horizontal, time vertical
+	State machine
+	
+C8 - Testing
+Verification - Building it right
+Validation - Building the right thing
+
+Validation Testing - does good with good data
+	meets needs
+	operates as intended
+Defect Testing - handles bad data
+
+Stages
+	Development
+		Unit
+		Component
+		System
+	Release
+	User
+Strategies
+	Partition
+	Guideline-based
+Guidelines
+	all errors
+	overflow
+	repeat input
+	invalid input
+	too big/too small
+	NULL
+	NULL, NULL, NULL!!!
+	length=0
+	
+Acceptance testing Stages
+	Define Criteria
+	Plan Testing
+	Derive tests
+	Run Tests
+	Negotiate Results
+	Reject/Accept System
+
+C9 - Evolution
+Steps
+	Development
+	Evolution
+	Servicing
+	Retirement
+Emergency Repair
+	Change requests
+	Analyze Code
+	Modify Code
+	Deliver system
+ReEngineering Activities
+	Code Translation
+	Reverse Engineer
+	Structure Improvement
+	Program Modularization
+	Data ReEngineering
+Bad Smells
+	Duplicate Code
+	Long Methods
+	Data Clumping
+	Speculative Generality
+
+C22 - Management
+Influences
+	Company Size
+	Customers
+	Software Size
+	Software Type
+	Organization Culture
+	Development Proces
+Activities
+	Planning
+	Risk Management
+	People management
+	Reporting
+	Proposal Writing
+Risk Management	
+	Type
+		Estimation
+		Organizational
+		People
+		Requirements
+		Technology
+		Tools
+	Affected area
+		Project
+		Product
+		Business
+	Activites
+		Risk Identification
+			Type
+		Risk analysis
+			Probability
+			Severity
+		Risk Planning
+			Avoidance
+			Minimization
+			Contingency
+		Risk Monitoring
+Factors
+	Consistency
+	Respect
+	Inclusion
+	Honesty
+Personality
+	task
+	Self
+	interaction
+	
+C99 - Design patterns
+Categories
+	Creational
+		Creating Objects
+	Structural
+		Relationships
+	Behavioral
+		Communication
+	Concurrency
+		Multi-threading

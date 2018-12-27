@@ -1,0 +1,25 @@
+Patterns and Who did them!
+----------------------------------------
+
+Christopher Hebert
+------------------
+
+-Iterator
+
+-Proxy
+
+
+Michael Towns
+--------------
+
+-Adaptor
+
+-Specification
+
+
+Connor Costello
+----------------
+
+-Module
+
+-Model-View controller

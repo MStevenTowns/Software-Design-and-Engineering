@@ -1,0 +1,22 @@
+environment
+	supplier stability
+	failure rate
+	age
+	performance
+	support requirements
+	mantenance costs
+	interoperability
+Application
+	understandability
+	documentation
+	data
+	performance
+	programming language
+	configuration management
+	test data
+	personnel skills
+	
+Quantitative
+	sytem change request
+	user interfaces
+	volume of data

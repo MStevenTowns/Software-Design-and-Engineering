@@ -1,0 +1,52 @@
+Management influences
+	Company Size
+	customers
+	Software size
+	software type
+	culture
+	development process
+
+Universal activities
+	planning 
+	risk management
+	people management
+	reporting
+	proposal writing
+
+Risk classification
+	Type
+	affected parts
+		project
+		product
+		business
+
+Risk management activities
+	ID
+	Analyize
+		likelyhood
+		severity
+	planning
+		Avoidance
+		Minimization
+		Contingency
+	monitoring
+
+Risk types
+	Estimation
+	organizational
+	people
+	requiremets
+	Technology
+	Tools
+
+People factors
+	Consistency
+	Respect
+	Inclusion
+	Honesty
+	
+Personality types
+	Task-oriented
+	Self-oriented
+	interaction-oriented
+	

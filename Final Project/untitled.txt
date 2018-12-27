@@ -1,0 +1,43 @@
+class Specification:
+
+    def __and__(self, other):
+        return And(self, other)
+
+    def __or__(self, other):
+        return Or(self, other)
+
+    def is_satisfied_by(self, candidate):
+        raise NotImplementedError()
+
+
+class And():
+
+    def __and__(self, other):
+        if isinstance(other, And):
+            self.specifications += other.specifications
+        else:
+            self.specifications += (other, )
+        return self
+
+    def is_satisfied_by(self, candidate):
+        satisfied = all([
+            specification.is_satisfied_by(candidate)
+            for specification in self.specifications
+        ])
+        return satisfied
+
+class Or():
+
+    def __or__(self, other):
+        if isinstance(other, Or):
+            self.specifications += other.specifications
+        else:
+            self.specifications += (other, )
+        return self
+
+    def is_satisfied_by(self, candidate):
+        satisfied = any([
+            specification.is_satisfied_by(candidate)
+            for specification in self.specifications
+        ])
+        return satisfied
